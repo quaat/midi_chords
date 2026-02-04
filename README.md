@@ -310,7 +310,3 @@ This project is intentionally minimal:
 * Rests (`NC`/`N.C.`) advance time without notes.
 
 ---
-
-## License
-
-Add your preferred license (MIT/Apache-2.0/etc.) if you plan to publish.
